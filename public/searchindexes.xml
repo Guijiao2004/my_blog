@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><search><entry><title>Brownian Motion</title><url>/post/2024-07-29-brownian-motion/index.e/</url><categories><category>Statistical Physics</category></categories><tags><tag>Physics</tag><tag>Stochastic Process</tag></tags><content type="html">  $$ \frac{1}{\Bigl(\sqrt{\phi \sqrt{5}}-\phi\Bigr) e^{\frac25 \pi}} \equiv 1+\frac{e^{-2\pi}} {1+\frac{e^{-4\pi}} {1+\frac{e^{-6\pi}} {1+\frac{e^{-8\pi}} {1+\cdots} } } } $$
+  </content></entry><entry><title/><url>/about/</url><categories/><tags/><content type="html">  Hello!
+  </content></entry><entry><title>站点示例</title><url>/flinks.html</url><categories/><tags/><content type="html">  如想交换本站友情链接，请在评论区留下你的站点信息，格式参考如下：
+- name: Hugo-NexT desc: Hugo NexT 官方预览网站。 avatar: https://hugo-next.eu.org/imgs/hugo_next_avatar.png link: https://hugo-next.eu.org   </content></entry></search>
